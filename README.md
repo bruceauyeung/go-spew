@@ -5,6 +5,9 @@ go-spew
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
 [![Coverage Status](https://img.shields.io/coveralls/davecgh/go-spew.svg)](https://coveralls.io/r/davecgh/go-spew?branch=master)
 
+This repo was initially forked from https://github.com/davecgh/go-spew and 
+aims to be a drop-in replacement.
+
 Go-spew implements a deep pretty printer for Go data structures to aid in
 debugging.  A comprehensive suite of tests with 100% test coverage is provided
 to ensure proper functionality.  See `test_coverage.txt` for the gocov coverage
